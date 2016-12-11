@@ -1,0 +1,38 @@
+# Site settings
+name: 予页的博客
+email: acmer_li@126.com
+author: 予页
+url: https://github.com/xiaoli000/blog/
+resume_site: https://github.com/xiaoli000/blog/
+github: https://github.com/xiaoli000/blog/
+baseurl: "/blog"
+description: One only can learn by teaching.
+meta_description: 予页;个人博客
+motto: One only can learn by teaching.
+banner: 学而不思则罔，思而不学则殆。
+gems: [jekyll-paginate]
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: xiaoli000
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : xiaoli000
+    #disqus :
+        #short_name : xxxx
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
