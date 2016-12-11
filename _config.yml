@@ -2,10 +2,10 @@
 name: 予页的博客
 email: acmer_li@126.com
 author: 予页
-url: https://github.com/xiaoli000/blog/
-resume_site: https://github.com/xiaoli000/blog/
-github: https://github.com/xiaoli000/blog/
-baseurl: "/blog"
+url: https://xiaoli000.github.io/
+resume_site: https://xiaoli000.github.io/
+github: https://github.com/xiaoli000/xiaoli000.github.io
+baseurl: ""
 description: One only can learn by teaching.
 meta_description: 予页;个人博客
 motto: One only can learn by teaching.
