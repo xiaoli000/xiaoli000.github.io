@@ -127,6 +127,12 @@ published: true
 
 生成css文件，引入博客站点中。
 
+### 搜索优化
+
+刚建立的站点可能短期内很难被Google、百度之类的搜索引擎收录，可以用[站长工具](http://seo.chinaz.com/)查询一下收录情况，直接搜索引擎搜素自己站点域名也可以验证收录情况。
+
+如果未被收录可以到[Google](https://www.google.com/webmasters/tools/home?hl=zh-CN)和[百度](http://zhanzhang.baidu.com/site/index)手动提交一下自己的站点。
+
 遇到了什么问题？
 ------------------------
 ***
